@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Spotmefy</string>
+    <string name="profile_btn">PROFILE</string>
+    <string name="login_btn">LOGIN</string>
+    <string name="login_title">LOGIN MUSIC PLAYER</string>
+    <string name="username_label">Username</string>
+    <string name="password_label">Password</string>
+
+</resources>
